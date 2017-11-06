@@ -17,7 +17,7 @@ import org.springframework.web.servlet.ModelAndView;
 @Controller
 
 public class HelloWorldController {
-
+//Just For the demo
 	@RequestMapping("/hello")
 	public ModelAndView helloworld()
 	{
